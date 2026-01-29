@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋 I’m Nisval
 
-<!--
-**nisvalpatel/nisvalpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering @ UIUC. I enjoy building things across different areas of tech and learning by doing.
 
-Here are some ideas to get you started:
+🚀 **Currently**
+- ML Research Assistant / Intern @ **Laboratory for Advanced Space Systems at Illinois (LASSI)**
+- Working on **AthenyxOS**, an iOS productivity app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Interested in**
+- Software engineering  
+- Web & mobile development  
+- Full-stack systems  
+- Machine learning & AI  
+- Blockchain & emerging technologies
+
+🏔️⚽🏃 **Outside of tech**
+Hiking · Soccer · Running · Snowboarding
+
+📫 **Find me on**
+[LinkedIn](https://www.linkedin.com/in/nisvalpatel)
