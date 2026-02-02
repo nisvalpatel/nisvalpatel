@@ -4,7 +4,7 @@ Computer Engineering @ UIUC. I enjoy building things across different areas of t
 
 🚀 **Currently**
 - ML Research Assistant / Intern @ **Laboratory for Advanced Space Systems at Illinois (LASSI)**
-- Working on **AthenyxOS**, an iOS productivity app
+- Working on **Me7hod AI**, an AI-powered technical interview platform ([link](https://www.me7hod.com/))
 
 🌱 **Interested in**
 - Software engineering  
