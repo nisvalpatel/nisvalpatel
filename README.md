@@ -3,7 +3,7 @@
 Computer Engineering @ UIUC. I enjoy building things across different areas of tech and learning by doing.
 
 🚀 **Currently**
-- ML Research Assistant / Intern @ **Laboratory for Advanced Space Systems at Illinois (LASSI)**
+- ML Research Assistant / Intern @ **University of Illinois Urbana-Champaign** - ConvAI Lab
 - Working on **Me7hod AI**, an AI-powered technical interview platform ([link](https://www.me7hod.com/))
 
 🌱 **Interested in**
