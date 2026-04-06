@@ -4,7 +4,7 @@ Computer Engineering @ UIUC. I enjoy building things across different areas of t
 
 🚀 **Currently**
 - ML Research Assistant / Intern @ **University of Illinois Urbana-Champaign (ConvAI Lab)**
-- Working on **Me7hod AI**, an AI-powered technical interview platform ([link](https://www.me7hod.com/))
+- Software Engineer Intern @ **Venu AI (YC W21)**
 
 🌱 **Interested in**
 - Software engineering  
