@@ -4,7 +4,7 @@ Computer Engineering @ UIUC. I enjoy building things across different areas of t
 
 🚀 **Currently**
 - ML Research Assistant / Intern @ **University of Illinois Urbana-Champaign (ConvAI Lab)**
-- Software Engineer Intern @ **IBM**
+- Software Developer Intern @ **IBM**
 
 🌱 **Interested in**
 - Software engineering  
