@@ -4,7 +4,7 @@ Computer Engineering @ UIUC. I enjoy building things across different areas of t
 
 🚀 **Currently**
 - ML Research Assistant / Intern @ **University of Illinois Urbana-Champaign (ConvAI Lab)**
-- Software Developer Intern @ **IBM**
+- Building CloneHunter - Code Clone Detection Engine
 
 🌱 **Interested in**
 - Software engineering  
